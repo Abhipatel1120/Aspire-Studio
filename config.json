@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri":"mysql://root:@localhost/codingthunder",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Aspire Studio",
+    "tag_line": "Interior Desinging and 3D Rendering",
+    "gmail-user":"example@gmail.com",
+    "gmail-password":"Abhi@18004",
+    "about_text": "This is a website for practice in python-flask module to learn more about it for better future in it.",
+    "no_of_post": 3,
+    "Login_img": "logo.jpg",
+    "admin_user": "Abhi",
+    "admin_password": "Abhi1120",
+    "upload_location": "C:\\Users\\Shyam\\PycharmProjects\\CodingThunder",
+    "":""
+  }
+}
